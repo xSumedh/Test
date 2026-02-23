@@ -1,4 +1,4 @@
 # Test
 
 
-Conflict here --- + == +
+Conflict here --- + =+= +
